@@ -1,2 +1,1 @@
-# snowflake_work
-explore snowflake feature and my ideas
+# snowflake_work_my_learning
